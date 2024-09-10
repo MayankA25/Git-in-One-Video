@@ -38,3 +38,10 @@ to finalise the changes
 
 
 "git checkout -f" it is used to roll back all te files to the previous commit 
+
+
+# log
+
+"git log" shows all the commits
+
+"git log -p -(number_of_previous_commits)   shows the entered number of previous commmits

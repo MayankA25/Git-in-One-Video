@@ -30,3 +30,8 @@ to finalise the changes
 # touch 
 
 "touch file_name" it is used to create new file
+
+
+
+# checkout
+"git checkout file_name" it is used to roll back to the previous changes if they are not committed/added to stagin area

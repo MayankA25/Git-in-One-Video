@@ -62,3 +62,7 @@ git diff --staged ----> compares the staging area with the last commit
 "git rm -f file_name" removes the file from working directory and staging area
 
 "git rm --cached file_name" removes the file only from staging area but it will be present in wokring directory 
+
+# ignore
+
+.giiignore file cannot be created directly in the directory terminal should be used to create that file

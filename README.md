@@ -35,3 +35,6 @@ to finalise the changes
 
 # checkout
 "git checkout file_name" it is used to roll back to the previous commit
+
+
+"git checkout -f" it is used to roll back all te files to the previous commit 

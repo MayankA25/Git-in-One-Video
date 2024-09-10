@@ -9,3 +9,8 @@ we can create a copy of our own so that main repo will not be affected
 # checkout
 
 "git checkout <branch-name>" used for switching branches
+
+
+# merge
+
+"git merge <feature-name>" used for merging the feature branch into the master branch

@@ -17,7 +17,8 @@ first we have to stage the files then we have to commit
 
 
 # add
-
+"git add file_name" ---> to add files one by one 
+"git add ." ----> to add all files at once
 add the files to the staging area
 
 

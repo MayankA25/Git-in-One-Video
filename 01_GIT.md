@@ -66,3 +66,12 @@ git diff --staged ----> compares the staging area with the last commit
 # ignore
 
 .giiignore file cannot be created directly in the directory terminal should be used to create that file
+
+# Remote repoistory
+
+remote - url on whcih we will host our repository
+
+"git remote add origin --url-- (adds the remote repository at the provided url of repository)
+
+"git remote -v" to show the remote repository url that we have added
+

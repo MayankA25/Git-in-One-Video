@@ -10,6 +10,7 @@ ls -lart show all the files including hidden files
 # status
 
 "git status" - shows the status of the files
+"git status -s" - gives the summary of changes of all the files
 
 
 

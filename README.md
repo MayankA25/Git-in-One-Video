@@ -27,6 +27,8 @@ add the files to the staging area
 "git commit -m "some message"
 to finalise the changes
 "git commit -a -m "skipped staging aea" it skips the staging area for this we have to use add command at least once
+
+
 # touch 
 
 "touch file_name" it is used to create new file
@@ -53,3 +55,9 @@ compares working tree with the staging area that means if i add those changes th
 git diff --staged ----> compares the staging area with the last commit 
 
 
+
+# rm(remove)
+
+"git rm -f file_name" removes the file from working directory and staging area
+
+"git rm --cached file_name" removes the file only from staging area but it will be present in wokring directory 

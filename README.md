@@ -45,3 +45,9 @@ to finalise the changes
 "git log" shows all the commits
 
 "git log -p -(number_of_previous_commits)   shows the entered number of previous commmits
+
+
+# diff
+compares working tree with the staging area that means if i add those changes then diff will not show any changes
+
+git diff --staged ----> compares the staging area with the last commit 

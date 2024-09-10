@@ -25,3 +25,7 @@ add the files to the staging area
 # commit
 
 to finalise the changes
+
+# touch 
+
+"touch file_name" it is used to create new file

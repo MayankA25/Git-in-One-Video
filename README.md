@@ -26,7 +26,7 @@ add the files to the staging area
 # commit
 "git commit -m "some message"
 to finalise the changes
-
+"git commit -a -m "skipped staging aea" it skips the staging area for this we have to use add command at least once
 # touch 
 
 "touch file_name" it is used to create new file
@@ -51,3 +51,5 @@ to finalise the changes
 compares working tree with the staging area that means if i add those changes then diff will not show any changes
 
 git diff --staged ----> compares the staging area with the last commit 
+
+
